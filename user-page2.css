@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    background-image: url("https://cdn.pixabay.com/photo/2019/07/19/12/06/network-4348668_960_720.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Charis SIL', serif;
+    /* border: 2px solid red; */
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden        ;
+}
+
+.container h1{
+    align-items: center;
+    justify-content: center ;
+    margin-left: 710px;
+    padding-top: 67px;
+}
+
+.box{
+    font-family: 'Charis SIL', serif;
+    margin: 34px 704px;
+    padding: 25px 10px;
+}
+
+.btn{
+    background-color: brown;
+    border-radius: 10px;
+    margin: 31px 25px;
+    padding: 2px 25px;  
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: brown;
+    border-radius: 10px;    margin: 0px 720px;
+    padding: 3px 7px;
+    cursor: pointer;
+}

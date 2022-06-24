@@ -1,0 +1,44 @@
+{
+    "clients": [
+        {
+            "Name": "Amazon - Nutanix",
+            "Date": "01/07/2022",
+            "Time": "12:00pm - 2:00pm"
+        },
+        {
+            "Name": "Accenture - Infosys",
+            "Date": "01/07/2022",
+            "Time": "3:00pm - 5:00pm"
+        },
+        {
+            "Name": "Mindtree - Nutanix",
+            "Date": "01/07/2022",
+            "Time": "6:00pm - 8:00pm"
+        },
+        {
+            "Name": "Amazon - Nutanix",
+            "Date": "02/07/2022",
+            "Time": "12:00pm - 2:00pm"
+        },
+        {
+            "Name": "Microsoft - Nutanix",
+            "Date": "02/07/2022",
+            "Time": "3:00pm - 5:00pm"
+        },
+        {
+            "Name": "Amazon - Cimpress",
+            "Date": "02/07/2022",
+            "Time": "6:00pm - 8:00pm"
+        },
+        {
+            "Name": "Infosys - Cimpress",
+            "Date": "03/07/2022",
+            "Time": "12:00pm - 2:00pm"
+        },
+        {
+            "Name": "TCS - Amazon",
+            "Date": "03/07/2022",
+            "Time": "3:00pm - 5:00pm"
+        }
+    ]
+}

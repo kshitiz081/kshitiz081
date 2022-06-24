@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background: url("https://cdn.pixabay.com/photo/2022/06/22/10/39/grasses-7277646_960_720.jpg");
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Smooch', cursive;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.container h1{
+    margin: -229px 20px;
+    padding: 478px 500px;
+    font-size: 60px;
+}
+
+.btn{
+    margin: -9px 801px;
+    padding: 7px 19px;
+    background-color: blueviolet;
+    border-radius: 20px;
+    cursor: pointer;
+}
